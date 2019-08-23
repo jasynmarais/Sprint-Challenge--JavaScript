@@ -39,7 +39,7 @@ let raptor = {
 console.log(tRex.weight);
 
 // What was the diet of a velociraptor?
-console.log();
+console.log(raptor.diet);
 
 // How long was a stegosaurus?
 console.log();

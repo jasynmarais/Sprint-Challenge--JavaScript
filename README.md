@@ -30,6 +30,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. Describe the biggest difference between `.forEach` & `.map`.
 
+.map returns a new array of elements and passes each element back to the callback. .forEach doesn't return anything.
+
 2. What is the difference between a function and a method?
 
 3. What is closure?

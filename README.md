@@ -49,6 +49,8 @@ iv. Explicit Binding - directly telling "this" what we are referring to by using
 
 5. Why do we need super() in an extended class?
 
+Super() is used to call and access the functions assigned to an object’s parent.
+
 ## Project Set up
 
 Follow these steps to set up and work on your project:

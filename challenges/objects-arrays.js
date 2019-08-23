@@ -36,7 +36,7 @@ let raptor = {
 // Using your dinosaur objects, log answers to these questions:
 
 // How much did tyrannosaurus weigh?
-console.log();
+console.log(tRex.weight);
 
 // What was the diet of a velociraptor?
 console.log();

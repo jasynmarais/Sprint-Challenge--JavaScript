@@ -38,6 +38,8 @@ Methods are associated with objects and called within a class. Functions are not
 
 3. What is closure?
 
+A closure is a scope that allows a nested (inner) function access to an outer function’s variables and parameters.
+
 4. Describe the four rules of the 'this' keyword.
 
 5. Why do we need super() in an extended class?
